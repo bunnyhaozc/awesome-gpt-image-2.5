@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Preserved prompt drafts not yet ready to ship in README
+电商*.md
+MIGRATION-REPORT.md
+.gitignore
+PLAN-gpt-image-2.5-mvp.md
